@@ -1,4 +1,4 @@
-# Project: Deep Learning-Based Face Recognition with Adversarial Patch Defense 
+# Project: Deep Learning-Based Face Recognition with Adversarial Patch Attacks
 
 This repository implements a deep learning model for face recognition while addressing potential adversarial attacks that could deceive the system.
 
